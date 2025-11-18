@@ -5,7 +5,7 @@ Proyecto de desarrollo full stack con JavaScript, Express, React y SQLite.
 ## 👥 Integrantes del Grupo
 
 - **Kevin Peralta** - Repositorio inicial y creacion del repositorio
-- **Integrante 2** - Módulo de usuarios
+- **Diego Ninancuro 2** - Models
 - **Integrante 3** - Módulo de clientes
 - **Integrante 3** - Módulo de clientes
 
