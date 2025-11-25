@@ -6,7 +6,7 @@ Proyecto de desarrollo full stack con JavaScript, Express, React y SQLite.
 
 - **Kevin Peralta** - Repositorio inicial y creacion del repositorio
 - **Diego Ninancuro** - Models
-- **Integrante 3** - Módulo de clientes
+- **Lino Huaracallo** - Controllers
 - **Integrante 3** - Módulo de clientes
 
 ## 🚀 Tecnologías Utilizadas
